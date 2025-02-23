@@ -1,0 +1,15 @@
+abbb, a, abb, ab, bababa, abc, aabb
+
+simple_text, user_input, data_check, test_case
+
+HelloWorld, MyVariable, CamelCaseTest, ParseThis
+
+London, NewYork, SanFrancisco, WelcomeHome
+
+abacaba, ababbb, abcdebb, abbbb, someTextHere
+
+apple, banana, watermelon, blueberry, OrangeJuice
+
+snake_case_test, another_variable, convert_text_here
+
+error_log, status_update, last_login, user_id
